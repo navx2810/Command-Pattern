@@ -1,4 +1,4 @@
-package net.matt.commands;
+package commands;
 
 public class MoveCommand extends Command {
 

@@ -1,4 +1,4 @@
-package net.matt.views;
+package views;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.border.TitledBorder;
 
-import net.matt.commands.Command;
+import commands.Command;
 
 public class MainView extends JFrame {
 

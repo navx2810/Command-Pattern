@@ -1,7 +1,7 @@
-package net.matt.models;
+package models;
 import java.util.LinkedList;
 
-import net.matt.commands.Command;
+import commands.Command;
 
 public class TasksModel 
 {

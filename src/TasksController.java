@@ -1,11 +1,11 @@
 import java.util.Random;
 
-import net.matt.commands.Command;
-import net.matt.commands.MainCommand;
-import net.matt.commands.MoveCommand;
-import net.matt.commands.PaintCommand;
-import net.matt.models.TasksModel;
-import net.matt.views.MainView;
+import commands.Command;
+import commands.MainCommand;
+import commands.MoveCommand;
+import commands.PaintCommand;
+import models.TasksModel;
+import views.MainView;
 
 
 public class TasksController
